@@ -609,7 +609,7 @@ In the Kiro IDE:
 2. Add a new MCP server by clicking the `+ Add` button.
 3. Paste the configuration given below.
 
-You can also manually edit the MCP configuration file located at `~/.kiro/settings/mcp.json` globally or `.kiro/settings/mcp.json` locally.
+For global configuration, edit `~/.kiro/settings/mcp.json`. For project-specific configuration, edit `.kiro/settings/mcp.json` in your project directory.
 
 #### `~/.kiro/settings/mcp.json`
 
